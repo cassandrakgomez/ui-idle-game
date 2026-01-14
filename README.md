@@ -9,6 +9,8 @@
 ## 🧑‍💻 Tech 
 * Flutter
 * Dart
+* VSCode
+* Git and Github
 
 ## 📸 Screenshot
 
